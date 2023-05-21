@@ -1,0 +1,15 @@
+G:\GB\HomeTask\taskEigh\bin\Debug\net7.0\taskEigh.exe
+G:\GB\HomeTask\taskEigh\bin\Debug\net7.0\taskEigh.deps.json
+G:\GB\HomeTask\taskEigh\bin\Debug\net7.0\taskEigh.runtimeconfig.json
+G:\GB\HomeTask\taskEigh\bin\Debug\net7.0\taskEigh.dll
+G:\GB\HomeTask\taskEigh\bin\Debug\net7.0\taskEigh.pdb
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.csproj.AssemblyReference.cache
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.AssemblyInfoInputs.cache
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.AssemblyInfo.cs
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.csproj.CoreCompileInputs.cache
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.dll
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\refint\taskEigh.dll
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.pdb
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\taskEigh.genruntimeconfig.cache
+G:\GB\HomeTask\taskEigh\obj\Debug\net7.0\ref\taskEigh.dll
