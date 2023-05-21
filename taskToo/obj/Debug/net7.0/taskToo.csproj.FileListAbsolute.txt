@@ -1,0 +1,15 @@
+G:\GB\HomeTask\taskToo\bin\Debug\net7.0\taskToo.exe
+G:\GB\HomeTask\taskToo\bin\Debug\net7.0\taskToo.deps.json
+G:\GB\HomeTask\taskToo\bin\Debug\net7.0\taskToo.runtimeconfig.json
+G:\GB\HomeTask\taskToo\bin\Debug\net7.0\taskToo.dll
+G:\GB\HomeTask\taskToo\bin\Debug\net7.0\taskToo.pdb
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.csproj.AssemblyReference.cache
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.AssemblyInfoInputs.cache
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.AssemblyInfo.cs
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.csproj.CoreCompileInputs.cache
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.dll
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\refint\taskToo.dll
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.pdb
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\taskToo.genruntimeconfig.cache
+G:\GB\HomeTask\taskToo\obj\Debug\net7.0\ref\taskToo.dll
