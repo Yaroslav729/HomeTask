@@ -1,0 +1,15 @@
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.csproj.AssemblyReference.cache
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.AssemblyInfoInputs.cache
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.AssemblyInfo.cs
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.csproj.CoreCompileInputs.cache
+G:\GB\HomeTask\taskFour\bin\Debug\net7.0\taskFour.exe
+G:\GB\HomeTask\taskFour\bin\Debug\net7.0\taskFour.deps.json
+G:\GB\HomeTask\taskFour\bin\Debug\net7.0\taskFour.runtimeconfig.json
+G:\GB\HomeTask\taskFour\bin\Debug\net7.0\taskFour.dll
+G:\GB\HomeTask\taskFour\bin\Debug\net7.0\taskFour.pdb
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.dll
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\refint\taskFour.dll
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.pdb
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\taskFour.genruntimeconfig.cache
+G:\GB\HomeTask\taskFour\obj\Debug\net7.0\ref\taskFour.dll
