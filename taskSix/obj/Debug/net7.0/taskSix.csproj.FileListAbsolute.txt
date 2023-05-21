@@ -1,0 +1,15 @@
+G:\GB\HomeTask\taskSix\bin\Debug\net7.0\taskSix.exe
+G:\GB\HomeTask\taskSix\bin\Debug\net7.0\taskSix.deps.json
+G:\GB\HomeTask\taskSix\bin\Debug\net7.0\taskSix.runtimeconfig.json
+G:\GB\HomeTask\taskSix\bin\Debug\net7.0\taskSix.dll
+G:\GB\HomeTask\taskSix\bin\Debug\net7.0\taskSix.pdb
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.csproj.AssemblyReference.cache
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.AssemblyInfoInputs.cache
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.AssemblyInfo.cs
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.csproj.CoreCompileInputs.cache
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.dll
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\refint\taskSix.dll
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.pdb
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\taskSix.genruntimeconfig.cache
+G:\GB\HomeTask\taskSix\obj\Debug\net7.0\ref\taskSix.dll
